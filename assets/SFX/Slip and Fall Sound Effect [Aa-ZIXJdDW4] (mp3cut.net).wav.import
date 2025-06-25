@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://d1iv3b65gvtdf"
+path="res://.godot/imported/Slip and Fall Sound Effect [Aa-ZIXJdDW4] (mp3cut.net).wav-71ceb04196e79a17252d62f2994f89da.sample"
+
+[deps]
+
+source_file="res://assets/SFX/Slip and Fall Sound Effect [Aa-ZIXJdDW4] (mp3cut.net).wav"
+dest_files=["res://.godot/imported/Slip and Fall Sound Effect [Aa-ZIXJdDW4] (mp3cut.net).wav-71ceb04196e79a17252d62f2994f89da.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

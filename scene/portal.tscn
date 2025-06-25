@@ -1,0 +1,19 @@
+[gd_scene load_steps=4 format=3 uid="uid://cn88v5uer558w"]
+
+[ext_resource type="Script" uid="uid://5enmglh5cgdq" path="res://scripts/portal.gd" id="1_4bxdo"]
+[ext_resource type="Texture2D" uid="uid://b53t8oqcoco7a" path="res://assets/sprites/Screenshot 2025-06-24 044447.png" id="2_v4vr6"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_pno75"]
+size = Vector2(24.5, 43)
+
+[node name="Portal" type="Area2D"]
+collision_layer = 255
+script = ExtResource("1_4bxdo")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(314, 199)
+texture = ExtResource("2_v4vr6")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(314.75, 199.5)
+shape = SubResource("RectangleShape2D_pno75")

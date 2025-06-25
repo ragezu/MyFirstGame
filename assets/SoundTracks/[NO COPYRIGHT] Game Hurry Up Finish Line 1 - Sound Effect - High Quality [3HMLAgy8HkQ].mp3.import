@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://daox1j5ev6156"
+path="res://.godot/imported/[NO COPYRIGHT] Game Hurry Up Finish Line 1 - Sound Effect - High Quality [3HMLAgy8HkQ].mp3-1c9eb8498f2afcedeef6b972ebb2456c.mp3str"
+
+[deps]
+
+source_file="res://assets/SoundTracks/[NO COPYRIGHT] Game Hurry Up Finish Line 1 - Sound Effect - High Quality [3HMLAgy8HkQ].mp3"
+dest_files=["res://.godot/imported/[NO COPYRIGHT] Game Hurry Up Finish Line 1 - Sound Effect - High Quality [3HMLAgy8HkQ].mp3-1c9eb8498f2afcedeef6b972ebb2456c.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

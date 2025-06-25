@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c3nr6s0xh3jfi"
+path="res://.godot/imported/Boing Sound Effect [ELL4jkKLmPc] (mp3cut.net).wav-f00c44851184a9a896bde8badf67ca47.sample"
+
+[deps]
+
+source_file="res://assets/SFX/Boing Sound Effect [ELL4jkKLmPc] (mp3cut.net).wav"
+dest_files=["res://.godot/imported/Boing Sound Effect [ELL4jkKLmPc] (mp3cut.net).wav-f00c44851184a9a896bde8badf67ca47.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
